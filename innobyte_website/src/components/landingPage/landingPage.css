@@ -2,14 +2,14 @@
    background-color: #F53855;
    border-radius: 5px;
   }
-  @media only screen and (max-width: 767px) {
+  @media (max-width: 700px) {
    .rectangle{
       margin-top: 1850px;
    }
  }
 
   
- @media only screen and (max-width: 767px) {
+ @media (max-width: 700px) {
    .footer{
       display: flex;
       flex-direction:column;
