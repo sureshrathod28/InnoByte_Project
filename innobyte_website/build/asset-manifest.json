@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d534853c.css",
+    "main.js": "/static/js/main.838589d7.js",
+    "static/js/592.017919b9.chunk.js": "/static/js/592.017919b9.chunk.js",
+    "static/media/Sponsored.svg": "/static/media/Sponsored.67c558a753620a1a59b2556843352c37.svg",
+    "static/media/Huge_Global.svg": "/static/media/Huge_Global.2d1e5ccc3460831e6b9e415624166283.svg",
+    "static/media/Illustration.svg": "/static/media/Illustration.71f65508701975ff945abc18a9b42b55.svg",
+    "static/media/Illustration_2.svg": "/static/media/Illustration_2.0c0222cd52f1479562f89ef1726c551e.svg",
+    "static/media/Premium.svg": "/static/media/Premium.75376ba3bc766a583080dcc31dc378bf.svg",
+    "static/media/Logo.svg": "/static/media/Logo.535550d926f57e3befade05fb2e2eb5c.svg",
+    "static/media/Standard.svg": "/static/media/Standard.1111b1895e72acbcdea56ce8ef0c12d0.svg",
+    "static/media/Free.svg": "/static/media/Free.dff3e894243222e155e1baf6450f481d.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.50f21ad32e930e6f4bfb84d534de512c.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.ffa5ffc4de877ebea0341794c42ec553.svg",
+    "static/media/right.svg": "/static/media/right.6db54307c8820de08b4b9cfde2e3505f.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.076d121c6050b5840b84df1e60e1b0c8.svg",
+    "static/media/left.svg": "/static/media/left.18be9d5eec02307fb76a5254619b5f4e.svg",
+    "static/media/rightTick.svg": "/static/media/rightTick.671a74d6d6b2bf007393f8ff3ef71869.svg",
+    "static/media/star.svg": "/static/media/star.f2e65ba39f169d56fd9bf131721c623d.svg",
+    "index.html": "/index.html",
+    "static/media/Tick.svg": "/static/media/Tick.0fbcd0082626a61cc26a650dacea1cce.svg",
+    "main.d534853c.css.map": "/static/css/main.d534853c.css.map",
+    "main.838589d7.js.map": "/static/js/main.838589d7.js.map",
+    "592.017919b9.chunk.js.map": "/static/js/592.017919b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d534853c.css",
+    "static/js/main.838589d7.js"
+  ]
+}
